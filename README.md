@@ -1,0 +1,1 @@
+# scipt-miner-for-duino-coin
